@@ -7,6 +7,7 @@ Python Data Science Project, Vehicle-Insurance-Claim-Amount-Prediction using MLR
 - Mallow's_CP: 0.001
 - D_Watson: 1.76
 - No Multicollinearity
+- Homoscedastic Residual/Error Distribution
 
 ## Problem Statement
 An Indian vehicle insurance company wants to create such a system through which the company can estimate proper insurance amount for Client's vehicle. If the company gets proper estimates for the insurance amount it can build better insurance plans & policies benefiting both sides.
