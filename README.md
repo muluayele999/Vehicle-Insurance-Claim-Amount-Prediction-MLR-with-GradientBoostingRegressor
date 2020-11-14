@@ -1,5 +1,12 @@
 # Vehicle-Insurance-Claim-Amount-Prediction-MLR
-Python Data Science Project, Vehicle-Insurance-Claim-Amount-Prediction using MLR algo with 79.62% accuracy, RMSE: 10087, MAE: 8238, Mallow's_CP: 0.001, D_Watson: 1.76, No Multicollinearity
+Python Data Science Project, Vehicle-Insurance-Claim-Amount-Prediction using MLR algo with:
+
+- 79.62% accuracy
+- RMSE: 10087
+- MAE: 8238
+- Mallow's_CP: 0.001
+- D_Watson: 1.76
+- No Multicollinearity
 
 ## Problem Statement
 An Indian vehicle insurance company wants to create such a system through which the company can estimate proper insurance amount for Client's vehicle. If the company gets proper estimates for the insurance amount it can build better insurance plans & policies benefiting both sides.
