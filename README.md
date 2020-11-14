@@ -45,3 +45,10 @@ In this Project I have unleashed the useful Data Science insights using this Veh
 21. [Plotting the Regression Line](#reg-plot)
 22. [Heteroscedasticity Tests](#het-test)
 23. [Auto-Correlation plot](#auto-plot)
+
+## Selected Features for the Final Model
+**1. Vehage:** Vehicle Age
+
+**2. CC:** Vehicle CC
+
+**3. Length:** Vehicle Length
