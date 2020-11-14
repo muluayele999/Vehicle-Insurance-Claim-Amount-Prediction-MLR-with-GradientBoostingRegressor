@@ -13,7 +13,7 @@ They have contracted an consultency firm to understand the factors on which the 
 Based on various market surveys, the consulting firm has gathered a large dataset of different types of cars Features & Insurance details.
 
 ## About the Car Insurance Prediction
-Insurance Claim Amount is Target variable & 5 features are Vehicle Length, CC, Weight, Age
+Insurance Claim Amount is Target variable & 4 features are Vehicle Length, CC, Weight, Age
 
 ## Business Goal
 You are required to model the Insurance amount of cars with the available independent variables. It will be used by the management to understand how exactly the amount varies with the independent variables. They can accordingly manipulate the insurance schemes, conditions, terms & policies to meet the company goals. Further, the model will be a good way for management to understand the vehicle insurance dynamics of Indian market.
