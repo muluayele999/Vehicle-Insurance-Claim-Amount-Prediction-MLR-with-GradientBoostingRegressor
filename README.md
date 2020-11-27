@@ -1,4 +1,4 @@
-# Vehicle-Insurance-Claim-Amount-Prediction-MLR
+# Vehicle-Insurance-Claim-Amount-Prediction-MLR-with-GradientBoostingRegressor
 Python Data Science Project, Vehicle-Insurance-Claim-Amount-Prediction using MLR algo with:
 
 - 79.62% accuracy
