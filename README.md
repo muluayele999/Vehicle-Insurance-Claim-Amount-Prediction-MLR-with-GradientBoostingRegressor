@@ -1,10 +1,13 @@
 # Vehicle-Insurance-Claim-Amount-Prediction-MLR-with-GradientBoostingRegressor
-Python Data Science Project, Vehicle-Insurance-Claim-Amount-Prediction using MLR algo with:
+Python Data Science Project, Vehicle-Insurance-Claim-Amount-Prediction using MLR algo with GradientBoostingRegressor:
 
-- 79.62% accuracy
-- RMSE: 10087
-- MAE: 8238
-- Mallow's_CP: 0.001
+- 79.62% accuracy (MLR)
+- 89.92% accuracy (GradientBoostingRegressor)
+- RMSE: 10087 (MLR)
+- RMSE: 6597 (GradientBoostingRegressor)
+- MAE: 8238 (MLR)
+- MAE: 5186 (GradientBoostingRegressor)
+- Mallow's_CP: 0.001 (MLR & GradientBoostingRegressor)
 - D_Watson: 1.76
 - No Multicollinearity
 - Homoscedastic Residual/Error Distribution
@@ -27,7 +30,7 @@ Insurance Claim Amount is Target variable & 4 features are Vehicle Length, CC, W
 You are required to model the Insurance amount of cars with the available independent variables. It will be used by the management to understand how exactly the amount varies with the independent variables. They can accordingly manipulate the insurance schemes, conditions, terms & policies to meet the company goals. Further, the model will be a good way for management to understand the vehicle insurance dynamics of Indian market.
 
 ## Project Overview
-In this Project I have unleashed the useful Data Science insights using this Vehicle Insurance dataset and performed the feature selection precisely to build multiple linear regression model by combining the power of best statistical rules & principles to maximise accuracy at its best. The best thing is my model is not having any Multicollinearity & Heteroscedasticity problem.
+In this Project I have unleashed the useful Data Science insights using this Vehicle Insurance dataset and performed the feature selection precisely to build multiple linear regression model along with GradientBoostingRegressor by combining the power of best statistical rules & principles to maximise accuracy at its best. The best thing is my model is not having any Multicollinearity & Heteroscedasticity problem.
 
 ## This Project is divided into 23 major steps which are as follows:
 1. [Check out the Data](#data-check)
@@ -53,6 +56,7 @@ In this Project I have unleashed the useful Data Science insights using this Veh
 21. [Plotting the Regression Line](#reg-plot)
 22. [Heteroscedasticity Tests](#het-test)
 23. [Auto-Correlation plot](#auto-plot)
+24. [Gradient Boosting For Regression](#grad-boost)
 
 ## Selected Features for the Final Model
 **1. Vehage:** Vehicle Age
