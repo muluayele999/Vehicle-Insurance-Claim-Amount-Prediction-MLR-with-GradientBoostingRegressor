@@ -32,7 +32,7 @@ You are required to model the Insurance amount of cars with the available indepe
 ## Project Overview
 In this Project I have unleashed the useful Data Science insights using this Vehicle Insurance dataset and performed the feature selection precisely to build multiple linear regression model along with GradientBoostingRegressor by combining the power of best statistical rules & principles to maximise accuracy at its best. The best thing is my model is not having any Multicollinearity & Heteroscedasticity problem.
 
-## This Project is divided into 23 major steps which are as follows:
+## This Project is divided into 24 major steps which are as follows:
 1. [Check out the Data](#data-check)
 2. [Importing Libraries & setting up environment](#imp-lib)
 3. [Loading dataset](#data-load)
